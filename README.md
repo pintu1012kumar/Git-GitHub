@@ -30,7 +30,7 @@
 2. git remote add origin linkOfRepo  => for add github repo
 3. git remote -v => give origin for fetch and push
 4. git branch -M main 
-5.git push -u origin master => all changes push on origin
+5.git push -u origin main => all changes push on origin
 
 
 
